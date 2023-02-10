@@ -1,1 +1,1 @@
-# array_methods_js_fazt
+# array_methods_js_fa
